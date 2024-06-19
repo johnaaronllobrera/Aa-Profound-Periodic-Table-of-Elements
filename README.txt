@@ -55,4 +55,4 @@ Contributing
 License
 - This project is licensed under the MIT License.
 
-Feel free to reach out to the author for any questions or further information. Enjoy exploring this Profound Periodic Table of Elements!
+Feel free to reach out to the author for any questions or further information.
