@@ -1,4 +1,4 @@
-Profound Periodic Table of Elements
+The Profound Periodic Table of Elements
 
 Author:
 John Aaron B. Llobrera  
